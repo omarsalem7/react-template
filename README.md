@@ -11,7 +11,7 @@
 after cloneing
 
 ```
-cd MY-APP
+cd react-template
 npm install
 npm start
 ```
