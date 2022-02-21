@@ -11,7 +11,7 @@
 after cloneing
 
 ```
-cd MY-APP
+cd "Your-Project"
 npm install
 npm start
 ```
