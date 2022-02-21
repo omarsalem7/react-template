@@ -4,7 +4,7 @@
 
 ## features:
 - Linters added for react and redux
-- Using Gitflow
+- Using Gitflow.
 
 ## Getting Started
 
