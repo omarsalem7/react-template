@@ -5,7 +5,7 @@ This is a template for creating all dependacies related to react application bes
 
 ## Getting Started
 
-after cloneing
+After Cloneing
 
 ```
 cd "Your-Project"
