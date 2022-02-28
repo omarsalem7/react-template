@@ -1,10 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # React js Template
-
-## features:
-- Linters added for react and redux
-- Using Gitflow.
+This is a template for creating all dependacies related to react application beside that the linters installed and using gitflow. 
 
 ## Getting Started
 
