@@ -2,9 +2,10 @@
 
 # React js Template
 
-## features:
+## Features:
 - Linters added for react and redux
 - Using Gitflow.
+- React router dependencies added
 
 ## Getting Started
 
