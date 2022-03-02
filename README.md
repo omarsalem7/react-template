@@ -1,17 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # React js Template
-This is a template for creating all dependacies related to react application beside that the linters installed and using gitflow. 
+This is a template for creating React js web application quicklyby using gitflow also, it is contain some the following dependacies installed:
+- linters (Eslint, CSS/ SCSS)
+- react-router-dom v6.2.2
+- prop-types v15.8.1
 
 ## Getting Started
 
-After Cloneing
-
+After Click in `use template` follow these instructions:
 ```
-cd "Project-Name"
 npm install
 npm start
 ```
+
+If you need to install redux just add this command: `npm i redux react-redux --save`
 
 
 ## Authors
