@@ -8,7 +8,7 @@ This is a template for creating all dependacies related to react application bes
 After Cloneing
 
 ```
-cd "Your-Project"
+cd "Project-Name"
 npm install
 npm start
 ```
