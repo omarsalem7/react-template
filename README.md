@@ -1,18 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React js Template
-This is a template for creating React js web application quicklyby using gitflow also, it is contain some the following dependacies installed:
-- `linters (Eslint, CSS/ SCSS)`
-- `react-router-dom v6.2.2`
-- `prop-types v15.8.1`
+# React js Template => replace it with title
+This is a template for creating React js web application quickly by using gitflow also, it is contain some the following dependacies installed:
+- ``
+- ``
+- ``
+## Built With
+
+- Frameworks / Libraries
+  ```bash
+  - linters (Eslint, CSS/ SCSS) 
+  - react-router-dom v6.2.2
+  - prop-types v15.8.1
+  ```
+
 
 ## Getting Started
-
+To use this template and running follow these simple example steps.
 After Click in `Use this template` follow these instructions:
-```
-npm install
-npm start
-```
+
+### Install
+  -  [Git](https://git-scm.com/downloads)
+  -  [Node](https://nodejs.org/en/download/)
+
+#### Run project
+
+```bash
+$ npm install
+$ npm start
+``
 
 If you need to install redux just write this command: `npm i redux react-redux --save`
 
