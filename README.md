@@ -2,11 +2,7 @@
 
 # React js Template => replace it with title
 This is a template for creating React js web application quickly by using gitflow also, it is contain some the following dependacies installed:
-- ``
-- ``
-- ``
 ## Built With
-
 - Dependacies
   ```bash
   - linters (Eslint, CSS/ SCSS) 
@@ -28,7 +24,7 @@ After Click in `Use this template` follow these instructions:
 ```bash
 $ npm install
 $ npm start
-``
+```
 
 If you need to install redux just write this command: `npm i redux react-redux --save`
 
