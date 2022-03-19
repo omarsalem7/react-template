@@ -7,7 +7,7 @@ This is a template for creating React js web application quickly by using gitflo
 - ``
 ## Built With
 
-- Frameworks / Libraries
+- Dependacies
   ```bash
   - linters (Eslint, CSS/ SCSS) 
   - react-router-dom v6.2.2
