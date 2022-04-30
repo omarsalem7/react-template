@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React js Template => replace it with title
+# project title 
 This is a template for creating React js web application quickly by using gitflow also, it is contain some the following dependacies installed:
 ## Built With
 - Dependacies
